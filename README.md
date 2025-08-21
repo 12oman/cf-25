@@ -42,3 +42,8 @@
 1. i have 9700 trophies on clash royale
 2. i drive a ford focus
 3. i own three islands off the coast of italy 
+
+# Zev 
+1) I have six younger siblings
+2) I own a car
+3) I been to two other countries besides New Zealand
