@@ -111,6 +111,6 @@
 3) I used to be from Canada
 
 # Lakshani
-1.Accidentally studied for an exam
-2.Iam an alien
-3.I am bad at lieing
+1) Accidentally studied for an exam
+2) Iam an alien
+3) I am bad at lieing
