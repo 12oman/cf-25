@@ -109,3 +109,8 @@
 1) I have been stab by a pen by my brother
 2) I bullied a kid to quit the game (they started first)
 3) I used to be from Canada
+
+# Lakshani
+1.Accidentally studied for an exam
+2.Iam an alien
+3.I am bad at lieing
