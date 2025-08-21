@@ -104,3 +104,8 @@
 1. I use to escape kindergarten by climing a 6ft fence
 2. I can drive manual
 3. I live at home
+
+# Naychyi
+1) I have been stab by a pen by my brother
+2) I bullied a kid to quit the game (they started first)
+3) I used to be from Canada
