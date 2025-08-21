@@ -87,7 +87,7 @@
 
 # Catlin
 1. i have a stray pet cat
-2. i have an nintendo switch
+2. i tryed exotic foods
 3. i have traveled to europe
 
 # Sandy
