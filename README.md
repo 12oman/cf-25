@@ -4,10 +4,10 @@
 
 2) Got blamed for a kid intentionally stepping on a worm to kill it in primary school
 
-3) ~~Accidentally got scammed $50 at a food truck in America~~
+# 3) ~~Accidentally got scammed $50 at a food truck in America~~
 
 # Allison
-1. Gotten ear surgery
+# 1. Gotten ear surgery
 2. All my best friends' parents are divorced
 3. ~~Been stabbed before~~
 
