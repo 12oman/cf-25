@@ -100,7 +100,7 @@
 2) I have an older brother
 3) I speak spanish
 
-#Chelsea
+# Chelsea
 1. I use to escape kindergarten by climing a 6ft fence
 2. I can drive manual
 3. I live at home
