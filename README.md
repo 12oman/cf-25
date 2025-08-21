@@ -6,9 +6,9 @@
 3) Accidentally got scammed $50 at a food truck in America
 
 # Allison
-1) idea
-2) idea
-3) idea
+1. Gotten ear surgery
+2. All my best friends' parents are divorced
+3. Been stabbed before
 
 # Roman
 
