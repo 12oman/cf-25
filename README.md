@@ -37,3 +37,8 @@
 1) I love the animal goats
 2) I am a millionaire
 3) I have a pet dragon
+
+# Logan
+1. i have 9700 trophies on clash royale
+2. i drive a ford focus
+3. i own three islands off the coast of italy 
