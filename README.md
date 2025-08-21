@@ -1,4 +1,8 @@
-# Francheska
+
+# deacon 
+1. i have a dumb corgi
+2. my spine is straight
+3. im freaky# Francheska
 1) Slipped and broke my hip on a biology beach trip
 
 2) Got blamed for a kid intentionally stepping on a worm to kill it in primary school
@@ -64,3 +68,9 @@
 1: I can bake sourdough bread
 2: I once fell off my bike into a moving bus
 3: Accidentally broke someones nose in the club dancing
+
+
+# deacon 
+1. i have a dumb corgi
+2. my spine is straight
+3. im freaky
