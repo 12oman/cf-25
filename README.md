@@ -114,3 +114,8 @@
 1) Accidentally studied for an exam
 2) Iam an alien
 3) I am bad at lieing
+
+# Vanila
+1. I'm a Twin
+2. I drank my dad's beer and got drunk 
+3. 3. I met Uce Gang and got a photo
