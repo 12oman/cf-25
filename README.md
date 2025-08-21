@@ -94,3 +94,8 @@
 1) I could touch my toes without bending my knees
 2) I want to fall sleep
 3) I am resistant to the cold
+
+# Laura
+1) I play guitar
+2) I have an older brother
+3) I speak spanish 
