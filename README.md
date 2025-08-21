@@ -73,3 +73,8 @@
 1. i have a dumb corgi
 2. my spine is straight
 3. im freaky
+
+# Zoe
+1. I almost set a table on fire while playing with the fire
+2. Agitated a rooster, when he started chasing me, I ran, he got caught between my legs and started doing somersaults
+3. Tripped over my own 2 feet, fell into a door, tried catching myself, but ended up bending my fingers backwards 
