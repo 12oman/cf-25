@@ -77,4 +77,10 @@
 # Zoe
 1. I almost set a table on fire while playing with the fire
 2. Agitated a rooster, when he started chasing me, I ran, he got caught between my legs and started doing somersaults
-3. Tripped over my own 2 feet, fell into a door, tried catching myself, but ended up bending my fingers backwards 
+3. Tripped over my own 2 feet, fell into a door, tried catching myself, but ended up bending my fingers backwards
+
+
+# Millie
+1) Pen Palled with Princess Kate
+2) Plays the drums
+3) Met Tyler The Creator
