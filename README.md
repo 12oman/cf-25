@@ -1,4 +1,9 @@
 # Francheska
+1) Slipped and broke my hip on a biology beach trip
+
+2) Got blamed for a kid intentionally stepping on a worm to kill it in primary school
+
+3) Accidentally got scammed $50 at a food truck in America
 
 # Allison
 
