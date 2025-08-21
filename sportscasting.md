@@ -151,25 +151,135 @@ Deacon uploads `deacon.dexter` - no file extension! Bold choice, or accidental? 
 Marama uploads `imgmarama.jpg` - at least it's clearly labeled!
 
 ### The HTML Update Marathon
-*Now comes the real fun - students trying to figure out how to get their images to show up on the website!*
+*Now comes the real fun - students trying to figure out how to get their images to show up on the website! This is where things get beautifully chaotic - like watching abstract digital art emerge from pure determination.*
 
-**Commits 68bf3c1 through 2017a13** - The Update-a-thon
-- Emma starts the HTML editing spree
-- Liam jumps in multiple times (persistent!)
-- Logan, Deacon, Francheska, students making micro-adjustments
-- Lucky060701 (Luke) makes several attempts
-- The pattern: Upload image -> Try to update HTML -> Repeat until success!
+## 🎨 THE GLITCH ART GALLERY: Beautiful Learning Moments
 
-*This is like watching someone trying to thread a needle while riding a bicycle! Each commit represents another attempt to connect their uploaded image to the correct HTML element.*
+### Emma's Bold First Strike (Commit 68bf3c1)
+Emma courageously makes the first HTML edit, and it's... wonderfully experimental:
+
+```html
+<a class="student" href="#">Emma</a><img
+  class="fit-picture"
+  src="/shared-assets/images/examples/grapefruit-slice.jpg"
+  alt="Grapefruit slice atop a pile of other slices" />
+```
+
+*Emma discovers that HTML structure matters! She's trying to add an image but places it outside the student div, creating a floating grapefruit slice image. The alt text suggests she might be copying from a tutorial about fruit - classic beginner move of adapting example code! This is the HTML equivalent of experimental poetry.*
+
+### Logan's Minimal Mastery (Commit 3430577)
+Logan (LordLog123) takes a different approach:
+
+```html
+<a class="student" href="#">Logan</a>
+<a><div class="student"><img src="FreakBob.jpeg" alt="Logan">Logan</div></a>
+```
+
+*Beautiful! Logan creates a duplicate entry but gets the structure right. He understands that the image needs to go inside the div, and he's nailed the syntax. This is learning through pattern recognition - he's seen the structure Roman created and replicated it perfectly.*
+
+### Liam's CSS Surgery Gone Wild (Commit 8b0c87e)
+Liam attempts some... ambitious in-line CSS surgery:
+
+```html
+<a class="student" href="#">Liam</a>
+<!-- <a class="student" href="#"><img src="breakingbob.jpg" alt="Liam">Liam</a> -->
+  <a><div class="student"><img src="breakingbob.jpg" alt="Liam">Liam</div></a>
+<style>
+    .student {
+        display: block;
+        padding: 16px;
+        background: #f0f0f0;
+        border-radius: 8px;
+        text-align: center;
+        text-decoration: none;
+        color: #333;
+    <a class="student" href="#">Zoe</a>
+```
+
+*OH MY! Liam has attempted to inject CSS styles directly into the middle of the HTML structure, but forgot to close the CSS block! He's created a magnificent glitch where CSS rules bleed into HTML elements. This is like watching someone try to renovate their house while still living in it. The commented-out line shows he's experimenting with different approaches - true iterative development!*
+
+### Liam's CSS Archaeology Continues (Commit ff37f60)
+Not deterred, Liam tries again with even more experimental CSS placement:
+
+```html
+<a><div class="student"><img src="breakingbob.jpg" alt="Liam">Liam</div></a>
+/* make images fit their parent */
+    .student img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px 8px 0 0;
+}
+<style>
+    .student {
+        display: block;
+```
+
+*Liam has discovered CSS comments but is placing CSS rules in the middle of HTML! He's trying to copy the existing image styles but hasn't quite grasped where CSS should live. This is JODI-esque digital art - CSS floating in HTML space, creating beautiful broken syntax. He understands WHAT he wants (responsive images) but not quite WHERE to put it.*
+
+### Lakshani's Mysterious Coordinates (Commit 2f62f44)
+Lucky060701 (Lakshani) creates the most enigmatic commit:
+
+```html
+<a class="student" href="#">Lakshani</a> x=5.0,y=4.7
+<a class="student" href="#">Marama</a>
+```
+
+And later in the same commit:
+```html
+<a class="student" href="#">Lakshani</a> https://raw.githubusercontent.com/12oman/cf-25/refs/heads/main/roman.webp
+```
+
+*Lakshani has entered the realm of digital mysticism! First he's added coordinate data (x=5.0,y=4.7) - possibly from a design program? A gaming background? The raw GitHub URL suggests he's discovered how to link to the actual file location. This is like finding coordinates to a treasure map mixed with a direct link to the treasure. Poetic and practical!*
+
+### Deacon's File Extension Adventure (Commit c0a5436)
+```html
+<a class="student" href="#">Deacon</a>
+<a><div class="student"><img src="deacon.dexter" alt="Liam">Deacon</div></a>
+```
+
+*Deacon commits to his mysterious `deacon.dexter` filename (no extension, maximum mystery) but accidentally labels his alt text as "Liam"! This is the HTML equivalent of signing someone else's name on your artwork. Beautiful human error in digital space.*
+
+### Millie's CSS Archaeology (Commit 915f7cd)
+Millietaylor01 becomes the CSS detective, uncommenting styles:
+
+```css
+/* make images fit their parent */
+.student img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+}
+```
+
+*Millie discovers commented-out CSS and brings it back to life! She's reading the code like an archaeologist, understanding that the commented styles should be active. This shows remarkable code comprehension - she's not just adding her image, she's improving the entire site's functionality.*
+
+## 🔬 LEARNING PATTERN ANALYSIS
+
+**The Evolution of Understanding:**
+1. **Structure Discovery**: Students learn that images need to go inside specific HTML elements
+2. **CSS Confusion**: Multiple attempts to add styles in incorrect locations
+3. **Pattern Recognition**: Successful students copy and modify existing working code
+4. **Iterative Improvement**: Each commit builds understanding, even when it doesn't work
+5. **Collaborative Learning**: Later commits show students building on others' discoveries
+
+**Beautiful "Failures" That Teach:**
+- CSS rules floating in HTML space (teaching: CSS belongs in `<style>` tags)
+- Images outside their containers (teaching: HTML structure matters)
+- Mysterious coordinates and URLs (teaching: experimentation is valuable)
+- Wrong alt text (teaching: attention to detail matters)
+- Unclosed tags (teaching: syntax precision is crucial)
+
+*This is authentic learning captured in version control! Every "mistake" is a learning moment, every glitch is understanding in progress. This is what real education looks like - not perfect code, but the messy, beautiful process of discovery.*
 
 ### The Learning Curve in Action
 Students are exhibiting classic beginner behavior:
 1. **Upload image with creative filename**
 2. **Make 3-4 attempts to update HTML**
-3. **Success! (usually)**
-4. **Sometimes one more commit "just to be sure"**
+3. **Discover CSS exists and try to modify it**
+4. **Success! (usually)**
+5. **Sometimes one more commit "just to be sure"**
 
-*The commit frequency tells the story - some students nail it in one try, others need multiple attempts. This is authentic learning in real-time!*
+*The commit frequency tells the story - some students nail it in one try, others need multiple attempts. This is authentic learning in real-time, preserved forever in git history!*
 
 ### The Standardization Movement
 **Commit 2017a13** by Roman - *"standardise form"*
@@ -226,8 +336,76 @@ Students are exhibiting classic beginner behavior:
 
 *And there you have it, folks! CF-25: A repository where 30+ programming newbies successfully created a collaborative student gallery website using HTML, CSS, Git, and pure determination. No merge conflicts, no broken code, just beautiful beginner chaos that somehow worked perfectly!*
 
-**Final Score: Students 1, C Code-Complexity 0**
+**Final Score: Students 1, Code Complexity 0**
 
 ---
 
-*This has been your play-by-play commentator, Claude signing off. Remember: every expert was once a beginner, and every beautiful codebase started with someone typing "hellow world" and hitting commit!*
+## 📚 REFLECTION SECTION: Learning from the Glitch Art
+
+*Hey CF-25 students! When you come back to read this, here are the golden learning moments from your beautiful chaos:*
+
+### 🎯 What Your "Mistakes" Actually Taught You
+
+**Emma's Grapefruit Experiment** showed that:
+- HTML elements need to be properly nested
+- You can't just drop images anywhere
+- Copying from tutorials requires adaptation, not just copy-paste
+
+**Liam's CSS Adventures** revealed:
+- CSS has a specific place to live (inside `<style>` tags or external files)
+- CSS syntax is different from HTML syntax
+- Commenting out code (`<!-- -->`) is a smart debugging technique
+- Persistence pays off - keep experimenting!
+
+**Lakshani's Mysterious Coordinates** demonstrated:
+- Code doesn't have to be perfect to be meaningful
+- Experimentation leads to discovery (you found the raw GitHub URL!)
+- Every attempt teaches you something new about how web tech works
+
+**Logan's Pattern Recognition** proved:
+- Understanding structure is more important than memorizing syntax
+- Looking at working examples and adapting them is a valid learning strategy
+- Sometimes the simplest approach is the best approach
+
+**Millie's CSS Detective Work** showed:
+- Reading and understanding existing code is a crucial skill
+- Uncommenting code is sometimes the solution
+- You can improve everyone's experience by fixing shared styles
+
+### 🔧 Technical Lessons Hidden in Your Commits
+
+1. **HTML Structure Matters**: Elements need to be properly nested and closed
+2. **CSS Belongs in Specific Places**: Not floating randomly in HTML
+3. **Alt Text Should Be Accurate**: It helps accessibility and debugging
+4. **File Extensions Matter**: `.jpg`, `.png`, `.webp` tell browsers what to expect
+5. **Pattern Recognition is King**: Find what works, then adapt it
+6. **Version Control Saves Everything**: Every experiment is preserved for learning
+
+### 💡 The Meta-Learning: What You Really Accomplished
+
+You didn't just add images to a website. You:
+- **Learned by doing** (the best way to learn programming)
+- **Collaborated without conflicts** (30+ people, zero merge issues!)
+- **Iterated and improved** (multiple commits showing growth)
+- **Experimented fearlessly** (tried things even when unsure)
+- **Built on each other's work** (true collaborative development)
+- **Preserved your learning journey** (git history as learning artifact)
+
+### 🚀 What This Prepares You For
+
+These "glitchy" moments are exactly what real programming looks like:
+- **Debugging**: Finding and fixing CSS that's in the wrong place
+- **Code Review**: Understanding what other people's code does
+- **Refactoring**: Cleaning up working code to make it better
+- **Documentation**: Understanding why someone made certain choices
+- **Collaboration**: Building on each other's work without breaking things
+
+### 🎭 The JODI Connection
+
+Your accidental "glitch art" connects to the work of legendary net artists JODI, who showed that broken code can be beautiful and meaningful. Your CSS floating in HTML, your mysterious coordinates, your experimental file extensions - these aren't failures, they're authentic expressions of learning in digital space.
+
+*Remember: Every expert was once a beginner who made beautiful mistakes. Your code experiments today are the foundation of your programming expertise tomorrow.*
+
+---
+
+*This has been your play-by-play commentator, signing off. Remember: every expert was once a beginner, and every beautiful codebase started with someone typing "hellow world" and hitting commit!*
