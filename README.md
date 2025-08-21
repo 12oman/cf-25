@@ -51,4 +51,10 @@
    #Sam
 1. I have a cat
 2. I have 2 brothers
-3. I thought I had killed my neigbbours fish 
+3. I thought I had killed my neigbbours fish
+
+# Abby
+1. has a dog named brodie
+2. can scoop icecream
+3. can /
+   
