@@ -118,4 +118,4 @@
 # Vanila
 1. I'm a Twin
 2. I drank my dad's beer and got drunk 
-3. 3. I met Uce Gang and got a photo
+3. I met Uce Gang and got a photo
