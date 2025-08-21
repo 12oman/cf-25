@@ -26,7 +26,7 @@
 
 # emma 
 1. been to the south island 
-2. have a sister
+2. set the fire alarm off at school
 3. have a brother 
 
 # ben
