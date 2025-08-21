@@ -158,7 +158,7 @@ Marama uploads `imgmarama.jpg` - at least it's clearly labeled!
 - Liam jumps in multiple times (persistent!)
 - Logan, Deacon, Francheska, students making micro-adjustments
 - Lucky060701 (Luke) makes several attempts
-- The pattern: Upload image � Try to update HTML � Repeat until success!
+- The pattern: Upload image -> Try to update HTML -> Repeat until success!
 
 *This is like watching someone trying to thread a needle while riding a bicycle! Each commit represents another attempt to connect their uploaded image to the correct HTML element.*
 
@@ -184,7 +184,6 @@ Students are exhibiting classic beginner behavior:
 ---
 
 ## FINAL ANALYSIS: WHAT WE WITNESSED
-
 ### The Technical Play-by-Play:
 1. **Repository Born**: Simple README with humor
 2. **Platform Pivot**: README --> HTML transformation
