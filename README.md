@@ -20,6 +20,11 @@
 2. have a sister
 3. have a fish
 
+# emma 
+1. been to the south island 
+2. have a sister
+3. have a brother 
+
 # ben
 1. i think liam is awesome
 2. deacon is stinky sometimes
