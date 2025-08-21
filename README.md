@@ -1,8 +1,5 @@
 
-# deacon 
-1. i have a dumb corgi
-2. my spine is straight
-3. im freaky# Francheska
+# Francheska
 1) Slipped and broke my hip on a biology beach trip
 
 2) Got blamed for a kid intentionally stepping on a worm to kill it in primary school
