@@ -66,7 +66,7 @@
 
 2: I once fell off my bike into a moving bus
 
-3: Accidentally broke someones nose in the club dancing
+3: Can rach every part of my back with one hand
 
 
 # deacon 
