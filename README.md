@@ -85,7 +85,7 @@
 2) Plays the drums
 3) Met Tyler The Creator
 
-# catlin
+# Catlin
 1. i have a stray pet cat
 2. i have an nintendo switch
 3. i have traveled to europe
