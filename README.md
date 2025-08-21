@@ -47,3 +47,8 @@
 1) I have six younger siblings
 2) I own a car
 3) I been to two other countries besides New Zealand
+
+   #Sam
+1. I have a cat
+2. I have 2 brothers
+3. I thought I had killed my neigbbours fish 
