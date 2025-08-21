@@ -89,3 +89,8 @@
 1. i have a stray pet cat
 2. i have an nintendo switch
 3. i have traveled to europe
+
+# Sandy
+1) I could touch my toes without bending my knees
+2) I want to fall sleep
+3) I am resistant to the cold
