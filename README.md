@@ -86,35 +86,35 @@
 
 # Catlin
 1. i have a stray pet cat
-2. i tryed exotic foods
-3. ~~i have traveled to europe~~
+# 2. i tryed exotic foods
+# 3. ~~i have traveled to europe~~
 
 # Sandy
-1) I could touch my toes without bending my knees
+# 1) I could touch my toes without bending my knees
 2) I want to fall sleep
-3) ~~I am resistant to the cold~~
+# 3) ~~I am resistant to the cold~~
 
 # Laura
 1) I play guitar
-2) I have an older brother
+# 2) I have an older brother
 3) ~~I speak spanish~~
 
 # Chelsea
 1. I use to escape kindergarten by climing a 6ft fence
 2. I can drive manual
-3. ~~I live at home~~
+# 3. ~~I live at home~~
 
 # Naychyi
 1) I have been stab by a pen by my brother
 2) ~~I bullied a kid to quit the game (they started first)~~
-3) I used to be from Canada
+# 3) I used to be from Canada
 
 # Lakshani
 1) Accidentally studied for an exam
-2) ~~Iam an alien~~
+# 2) ~~Iam an alien~~
 3) I am bad at lieing
 
 # Vanila
 1. I'm a Twin
-2. I drank my dad's beer and got drunk 
+# 2. I drank my dad's beer and got drunk 
 3. I met Uce Gang and got a photo
