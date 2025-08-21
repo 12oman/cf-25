@@ -57,4 +57,10 @@
 1. has a dog named brodie
 2. can scoop icecream
 3. can /
-   
+
+
+   # Marama
+
+1: I can bake sourdough bread
+2: I once fell off my bike into a moving bus
+3: Accidentally broke someones nose in the club dancing
