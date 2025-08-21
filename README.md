@@ -32,3 +32,8 @@
 1. i think liam is awesome
 2. deacon is stinky sometimes
 3. were week 5 into class and i dont know how to code anything besides a fucking circle
+
+# Elliot
+1) I love the animal goats
+2) I am a millionaire
+3) I have a pet dragon
