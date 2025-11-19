@@ -1,14 +1,5 @@
-// CF-25 Ultra-Subtle Student Image Checker with Hover Rickroll
-// Maximum stealth mode: Lorem Picsum placeholders + hover rickroll! 😈
 
-document.addEventListener('DOMContentLoaded', function() {
-    console.log('🎵 Never gonna give you up, never gonna let you down... 🎵');
-    console.log('CF-25 Ultra-Stealth Mode activated!');
-    
-    // Stealth rickroll configuration
-    const RICKROLL_VIDEO_ID = 'dQw4w9WgXcQ'; // YouTube video ID
-    
-    // Function to generate unique placeholder for each student
+        // Function to generate unique placeholder for each student
     function generatePlaceholderImage(studentName) {
         // Create a simple hash from student name for consistency
         let hash = 0;
